@@ -7,12 +7,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my skills in **Data Science** field
 - 🌱 I’m currently learning **SQL,Python,Tableau,Machine Learning**
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ... any Business intelligeance project and pyton projects
 - 🤔 I’m looking for help with Python learning 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... bchavan22912gmail.com
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I love to cook and organized my stuff
 -->
 
 
