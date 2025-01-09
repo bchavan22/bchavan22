@@ -18,10 +18,15 @@ Welcome to my GitHub profile! I'm Bhagyashree Chavan, an aspiring Data Science p
 **Machine Learning**: Exploring predictive analytics and AI solutions.
   
   👯 Looking to Collaborate On: Business Intelligence and Python projects that have meaningful impact.
+  
   🤔 Seeking Help With: Advanced Python concepts and practical applications.
+  
   💬 Ask Me About: My learning journey, organizing workflows, or anything related to data!
+  
   📫 How to Reach Me: bchavan2291@gmail.com
+  
   😄 Pronouns: She/Her
+  
   ⚡ Fun Fact: I love to cook and organize things—it’s my way of blending creativity and structure!
 
 
