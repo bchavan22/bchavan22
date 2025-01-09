@@ -1,21 +1,23 @@
 ### Hi there 👋
 
 
-**bchavan22/bchavan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Bhagyashree Chavan, an aspiring Data Science professional passionate about leveraging data to uncover insights and solve real-world problems.
 
-Here are some ideas to get you started:
+🌟 About Me
+🔭 Currently Working On: Enhancing my skills in the Data Science field.
+🌱 Currently Learning:
 
-- 🔭 I’m currently working on my skills in **Data Science** field
-- 🌱 I’m currently learning **SQL,Python,Tableau,Machine Learning**
-- 👯 I’m looking to collaborate on ... any Business intelligeance project and pyton projects
-- 🤔 I’m looking for help with Python learning 
-- 💬 Ask me about ...
-- 📫 How to reach me: ... bchavan22912gmail.com
-- 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ... I love to cook and organized my stuff
--->
+SQL: Crafting efficient queries and managing databases.
+Python: Building expertise in programming and data manipulation.
+Tableau: Creating compelling and interactive visualizations.
+Machine Learning: Exploring predictive analytics and AI solutions.
+👯 Looking to Collaborate On: Business Intelligence and Python projects that have meaningful impact.
+🤔 Seeking Help With: Advanced Python concepts and practical applications.
+💬 Ask Me About: My learning journey, organizing workflows, or anything related to data!
+📫 How to Reach Me: bchavan2291@gmail.com
+😄 Pronouns: She/Her
+⚡ Fun Fact: I love to cook and organize things—it’s my way of blending creativity and structure!
 
 
-
-(https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2R4MeoGcQDKUFCwqTdK2Vg%3D%3D)[(https://www.linkedin.com/in/bhagyashree-chavan-a14b5b63)]
-
+🌐 Let's Connect
+Find me on LinkedIn: [Bhagyashree Chavan](https://www.linkedin.com/in/bhagyashree-chavan)
