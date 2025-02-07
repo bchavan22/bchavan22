@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm Bhagyashree Chavan, an aspiring Data Science p
   
   💬 Ask Me About: My learning journey, organizing workflows, or anything related to data!
   
-  📫 How to Reach Me: bchavan2291@gmail.com
+  📫 How to Reach Me: bchavan2291@gmail.com or workwithchavan@gmail.com
   
   😄 Pronouns: She/Her
   
